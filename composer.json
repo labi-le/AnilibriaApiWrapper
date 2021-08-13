@@ -3,6 +3,8 @@
     "description": "anilibria api wrapper",
     "type": "library",
     "license": "MIT",
+    "readme": "README.md",
+    "keywords": ["anilibria", "anilibria api", "anilibria api wrapper", "anilibria wrapper", "api wrapper"],
     "autoload": {
         "psr-4": {
             "Astaroth\\Anilibria\\": "src/Anilibria"

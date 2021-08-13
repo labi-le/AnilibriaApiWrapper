@@ -1,0 +1,21 @@
+{
+    "name": "labile/anilibria-api-wrapper",
+    "description": "anilibria api wrapper",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Astaroth\\Anilibria\\": "src/Anilibria"
+        }
+    },
+    "authors": [
+        {
+            "name": "labile",
+            "email": "1a6i1e@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^8.0"
+    }
+}
